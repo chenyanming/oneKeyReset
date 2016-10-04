@@ -1,3 +1,3 @@
 ## Photo
-![GUI](https://raw.githubusercontent.com/chenyanming/oneKeyReset/master/graph.tiff)
+![GUI](https://raw.githubusercontent.com/chenyanming/oneKeyReset/master/graph.png)
 
